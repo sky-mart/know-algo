@@ -1,0 +1,15 @@
+# Mac OS X
+.DS_Store
+
+# CLion 
+/**/.idea/
+/**/cmake-build-debug/
+/**/cmake-build-release/
+/**/CMakeFiles/
+/**/CMakeCache.txt
+.idea
+
+/ext-libs/local/
+
+
+
